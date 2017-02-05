@@ -5,6 +5,7 @@ Following the list of possible BUGs related:
  - [SCL-11083](https://youtrack.jetbrains.com/issue/SCL-11083)
  - [SCL-8396](https://youtrack.jetbrains.com/issue/SCL-8396)
  - [SCL-10912](https://youtrack.jetbrains.com/issue/SCL-10912)
+ - [Stackoverflow thread](http://stackoverflow.com/questions/41564915/why-could-not-find-implicit-error-in-scala-intellij-scalatest-scalactic)
 
 ## How to reproduce error:
 0. Check out the project.
